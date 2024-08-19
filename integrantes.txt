@@ -1,0 +1,11 @@
+Practica 1 Vue3
+
+Nombre de integrante:
+
+-Patricia Medina Meneses
+
+
+Pasos para iniciar el proyecto
+
+1) npm install
+2) npm run serve
