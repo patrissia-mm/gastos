@@ -1,0 +1,143 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Artículos de limpieza"
+    },
+    {
+      "id": "2",
+      "nombre": "Educacion"
+    },
+    {
+      "id": "3",
+      "nombre": "Servicios Básicos"
+    },
+    {
+      "id": "4",
+      "nombre": "Alimentación"
+    },
+    {
+      "id": "5",
+      "nombre": "Mascotas"
+    },
+    {
+      "id": "6",
+      "nombre": "Ahorros"
+    },
+    {
+      "nombre": "Seguros",
+      "id": "ytSy83Z"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "nombre": "Pasta Dental",
+      "precio": 15,
+      "categoriaId": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Jaboncillo",
+      "precio": 6,
+      "categoriaId": "1"
+    },
+    {
+      "id": "3",
+      "nombre": "Colegio",
+      "precio": 700,
+      "categoriaId": "2"
+    },
+    {
+      "id": "4",
+      "nombre": "Diplomado Full Stack",
+      "precio": 1250,
+      "categoriaId": "2"
+    },
+    {
+      "id": "5",
+      "nombre": "Agua",
+      "precio": 120,
+      "categoriaId": "3"
+    },
+    {
+      "id": "6",
+      "nombre": "Gas",
+      "precio": 15,
+      "categoriaId": "3"
+    },
+    {
+      "id": "7",
+      "nombre": "Fruta",
+      "precio": 50,
+      "categoriaId": "4"
+    },
+    {
+      "id": "8",
+      "nombre": "Verduras",
+      "precio": 25,
+      "categoriaId": "4"
+    },
+    {
+      "id": "9",
+      "nombre": "Leche",
+      "precio": 6,
+      "categoriaId": "4"
+    },
+    {
+      "id": "10",
+      "nombre": "Cereales perros",
+      "precio": 220,
+      "categoriaId": "5"
+    },
+    {
+      "id": "11",
+      "nombre": "Ahorros para viajes",
+      "precio": 200,
+      "categoriaId": "6"
+    },
+    {
+      "nombre": "Shampoo PANTENE",
+      "precio": 36,
+      "categoriaId": "1",
+      "id": "o1d849Q"
+    }
+  ],
+  "gastos": [
+    {
+      "id": "1",
+      "fecha": "14-08-2024",
+      "itemId": 10,
+      "cantidad": 1,
+      "monto": 220
+    },
+    {
+      "id": "2",
+      "fecha": "15-08-2024",
+      "itemId": 1,
+      "cantidad": 2,
+      "monto": 30
+    },
+    {
+      "id": "3",
+      "fecha": "15-08-2024",
+      "itemId": 11,
+      "cantidad": 1,
+      "monto": 200
+    },
+    {
+      "id": "4",
+      "fecha": "16-08-2024",
+      "itemId": 9,
+      "cantidad": 3,
+      "monto": 18
+    },
+    {
+      "id": "5",
+      "fecha": "17-08-2024",
+      "itemId": 4,
+      "cantidad": 1,
+      "monto": 1250
+    }
+  ]
+}
